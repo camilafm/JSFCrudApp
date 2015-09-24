@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project name="JSFCrudApp" basedir="." default="deploywar">
+<project name="JSFCrudApp" basedir="." default="criaWar">
  
     <!-- definicao das propriedades dos arquivos -->
 <property name="src" value="src"/>
